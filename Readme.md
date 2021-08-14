@@ -1,0 +1,1 @@
+Olá esse projeto é um bot que sai comentando frases pré definidas em postagens de uma hastag pre definida, no instagram.
